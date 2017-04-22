@@ -92,7 +92,7 @@ public class Zipcode{
     {		// could have used switch() here as easily as well. 
     	if (num == 1)
     	{
-    		return ":::||"; 
+    		return ":::||;  //UNBALANCE HERE
     	}
     	if (num ==2)
     	{
