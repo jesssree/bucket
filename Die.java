@@ -3,7 +3,6 @@
 //  Borrowed from Professor Cannon. 
 //
 //****************************************
-
 public class Die {
     
     private int n;
