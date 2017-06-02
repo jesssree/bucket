@@ -19,7 +19,10 @@
 //Horstmann, Cay S. (2015-07-07). Big Java: Early Objects, 6th Edition (Page 418). Wiley. Kindle Edition. 
 //*********************************
 
-
+// test -- conflict here
+// one more
+// another
+// change zip
 public class Zipcode{
 
 
