@@ -10,7 +10,8 @@
  * 
  * */
 
-//Testing GitHub pull and push
+//This is another test
+//This tests for any conflicts
 
 import java.util.Scanner;
 public class Game 
