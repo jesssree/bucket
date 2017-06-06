@@ -12,6 +12,8 @@ you are only allowed to use its basic list operations, not the stack operations 
  */
 
 //This is a test for commiting onto GitHub
+//Another test to gitHub
+
 import java.util.LinkedList; 
 
 public class MyStack<E> //a generic type E 
